@@ -1,0 +1,13 @@
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pem" >> .gitignore
+echo "*.key" >> .gitignore
+echo "*.crt" >> .gitignore
+echo ".env" >> .gitignore
+echo ".DS_Store" >> .gitignore
+
+rPi Files/libraries/external/BreezySLAM/
+rPi Files/libraries/external/pyrplidar/
+
+echo "*.egg-info/" >> .gitignore
+echo "__pycache__/" >> .gitignore
